@@ -1,0 +1,7 @@
+
+(chrome:11060): Gtk-WARNING **: 19:17:23.978: Theme parsing error: gtk.css:1566:23: 'font-feature-settings' is not a valid property name
+
+(chrome:11060): Gtk-WARNING **: 19:17:23.991: Theme parsing error: gtk.css:3618:25: 'font-feature-settings' is not a valid property name
+
+(chrome:11060): Gtk-WARNING **: 19:17:23.995: Theme parsing error: gtk.css:4080:23: 'font-feature-settings' is not a valid property name
+Opening in existing browser session.
